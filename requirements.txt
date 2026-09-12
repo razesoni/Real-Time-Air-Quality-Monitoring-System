@@ -1,0 +1,3 @@
+requests
+python-dotenv
+# Install pathway separately on a supported platform for the actual streaming engine.
